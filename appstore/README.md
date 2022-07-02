@@ -1,4 +1,4 @@
-# appstore
+# Screen Elastic
 
 A new Flutter project.
 
